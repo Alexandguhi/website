@@ -779,6 +779,9 @@ main.container-fluid {
   }
 }
 @media (max-width: 767px) {
+  .flip-container{
+		padding-right: 5rem;
+	}
   .navbar {
     position: fixed;
     width: 50%;
