@@ -956,7 +956,7 @@ main.container-fluid {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-    padding: 2rem 0;
+    padding: 1rem 0;
     font-size: 2rem;
     color: #fff;
   }
