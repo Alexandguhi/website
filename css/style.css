@@ -646,7 +646,7 @@ main.container-fluid {
     position: fixed;
     top: 8.5rem;
     left: -100%;
-    width: 55%;
+    width: 53%;
     height: 100%;
     background-color: #1d3849;
     z-index: 100;
@@ -660,7 +660,7 @@ main.container-fluid {
     position: fixed;
     top: 8.5rem;
     right: -100%;
-    width: 55%;
+    width: 53%;
     height: 100%;
     background-color: #1d3849;
     z-index: 100;
