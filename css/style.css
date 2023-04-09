@@ -1016,3 +1016,24 @@ main.container-fluid {
     float: none;
   }
 }
+
+
+
+@media(max-width: 363px){
+ .navbar{
+   display: block;
+   width: 100%;
+ }
+ .navbar3{
+   top: 80px;
+   display: block;
+  width: 100%;
+ }
+ main.container-fluid{
+  padding-top: 160px;
+ }
+}
+
+
+
+
