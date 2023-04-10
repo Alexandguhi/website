@@ -1004,6 +1004,9 @@ main.container-fluid {
     padding-bottom: 2rem;
     padding-top: 10rem;
   }
+  .slick-arrow {
+	z-index: 3;
+  }
   .feedback-slider .text {
     padding-top: 3rem;
   }
