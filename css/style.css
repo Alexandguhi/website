@@ -1140,6 +1140,7 @@ main.container-fluid {
     width: 80px;
   }
   .s-m a {
+    padding-top: 2.5px;
     border-radius: 50%;
     display: inline-block;
     width: 6rem;
